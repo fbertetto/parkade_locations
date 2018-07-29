@@ -4,7 +4,8 @@ eqfeed_callback({
 {
       "type":"Feature",
       "properties":{
-        "name":"test"
+        "name":"Parking City",
+        "address": "Tansito Caseres 415"
       },
       "geometry":{
         "type":"Point",
@@ -17,7 +18,8 @@ eqfeed_callback({
     {
       "type":"Feature",
       "properties":{
-        "name":"test"
+        "name":"Parking Mania",
+        "address": "Caseros 686"
       },
       "geometry":{
         "type":"Point",
@@ -30,7 +32,8 @@ eqfeed_callback({
     {
       "type":"Feature",
       "properties":{
-        "name":"test"
+        "name":"Test Parking",
+        "address": "Pasaje Rincon 415"
       },
       "geometry":{
         "type":"Point",
@@ -43,7 +46,8 @@ eqfeed_callback({
     {
       "type":"Feature",
       "properties":{
-        "name":"test"
+        "name":"Playa por hora",
+        "address": "San Juan 2020"
       },
       "geometry":{
         "type":"Point",
@@ -56,7 +60,8 @@ eqfeed_callback({
     {
       "type":"Feature",
       "properties":{
-        "name":"test"
+        "name":"AutoCity",
+        "address": "Jeronimo L Cabrera 18"
       },
       "geometry":{
         "type":"Point",
@@ -69,7 +74,8 @@ eqfeed_callback({
     {
       "type":"Feature",
       "properties":{
-        "name":"test"
+        "name":"Playa 24hs",
+        "address": "Marcelo T. Alvear 654"
       },
       "geometry":{
         "type":"Point",
@@ -82,7 +88,8 @@ eqfeed_callback({
     {
       "type":"Feature",
       "properties":{
-        "name":"test"
+        "name":"Pairking",
+        "address": "Rondeau 18"
       },
       "geometry":{
         "type":"Point",
